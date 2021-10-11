@@ -4,5 +4,5 @@ git status
 git add .
 #git branch -M praktikum
 git commit -m "Update ..."
-#git remote add origin https://github.com/masaboe/pem-web2021
+#git remote add origin https://github.com/AlamMH13488/pem-web2021
 git push -u origin praktikum
