@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Latihan Multimedia</title>
+</head>
+    <body>
+        <center>
+        <video width="500" height="400" controls>
+            <source src="Big Boss.mp4" type="video/mp4">
+        </center>
+
+        <!-- Memulai plugin PDF -->
+        <!--object width="100%" height="500px" data="https<iframe width="560" height="315" src="https://github.com/AlamMH13488/pem-web2021/blob/main/Minggu%201/report%20web%20server.pdf"></object-->
+
+        <embed width="100%" height="500px" data="https<iframe width="560" height="315" src="https://www.youtube.com/embed/8jHL8SK7D-w"></object>
+        <!-- Akhir plugin PDF -->
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/8jHL8SK7D-w" title="YouTube video player" allowfullscreen></iframe>
+          </video>
+    </body>
+</html>
