@@ -19,7 +19,7 @@
             document.getElementById("btn-load").innerHTML = "loading...";
             document.getElementById("btn-load").setAttribute("disabled",
                 "true");
-            axios.get('https://jsonplaceholder.typicode.com/posts/')
+            axios.get('http://localhost/Minggu%2013/kode.json')
                 .then(function (response) {
                     var template = response.data.map(post => {
                         return `
